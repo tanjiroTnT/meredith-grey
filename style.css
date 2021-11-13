@@ -1,0 +1,10 @@
+a {
+text-decoration:none;
+}
+.article:hover{
+    color:deepskyblue;
+}
+html{
+    scroll-behavior: smooth;
+    
+}
